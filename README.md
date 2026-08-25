@@ -1,6 +1,6 @@
 # Python Code, Mindset & Debugging Guide
 
-Bộ hướng dẫn toàn diện về **Ngôn ngữ Python**, **Tư duy Lập trình (Mindset)**, **Cấu trúc Kiến trúc Code Clean** và **Phương pháp Fix Bug Thực chiến**.
+Bộ hướng dẫn toàn diện về **Ngôn ngữ Python**, **Tư duy Lập trình (Mindset)**, **Cấu trúc Kiến trúc Code Clean** và **Phương pháp Fix Bug Thực chiến**, cùng cẩm năng chi tiết về ứng dụng Shopee và các phương thức tích lũy Shopee Xu.
 
 ---
 
@@ -30,3 +30,10 @@ Bạn có thể tải toàn bộ tài liệu và ví dụ code này thành file 
 - Phân tích `Traceback` và xác định Root Cause
 - Kỹ thuật Debugging với `pdb` / `breakpoint()`
 - Viết **Unit Test** với `unittest` để phòng ngừa regression bug
+
+### 4. `shopee_coin_and_app_guide.md`
+- **Cẩm nang toàn diện về Ứng dụng Shopee & Chi tiết các cách nhận Shopee Xu**
+- **Bố cục & Thiết kế UI/UX**: Phân bố các tab, thanh điều hướng và tính năng trên ứng dụng
+- **Chi tiết các cách nhận Xu**: Điểm danh hàng ngày, Nông trại Shopee, Game Shopee, Xem Shopee Live, Xem Shopee Video, Đánh giá đơn hàng 50 từ + video/hình ảnh, Voucher Hoàn Xu Xtra...
+- **Quy trình tối ưu hóa hàng ngày (Daily Coin Routine)**
+- **Quản lý & Sử dụng Shopee Xu**: Kiểm tra hạn sử dụng, xem lịch sử và quy đổi xu
